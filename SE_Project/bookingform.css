@@ -1,0 +1,25 @@
+.your_details {
+  background-color: azure;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 300;
+}
+.pet_details {
+  background-color: beige;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 300;
+}
+.booking_details {
+  background-color: antiquewhite;
+  font-weight: 300;
+  font-stretch: extra-expanded;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400;
+  font-style: inherit;
+}
+body {
+  background-color: aliceblue;
+}
